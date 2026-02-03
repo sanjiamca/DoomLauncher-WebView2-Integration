@@ -1,11 +1,11 @@
 # DoomLauncher - WebView2 Integration
 
-This is a modified version (fork) of the original **DoomLauncher** by **Hobomaster22**.
+This is a modified version (fork) of the **DoomLauncher** repository by **nstlaurent**.
 
-**Original Repository:** [https://github.com/Hobomaster22/DoomLauncher](https://github.com/Hobomaster22/DoomLauncher)
+**Original Repository:** [https://github.com/nstlaurent/DoomLauncher](https://github.com/nstlaurent/DoomLauncher)
 
 ## 🚀 What's New in This Version?
-The original launcher used an outdated Internet Explorer component which caused issues with searching and downloading from Doomworld/IdGames. This version integrates **Microsoft WebView2 (Edge)** for a modern and stable experience.
+The original launcher used components that caused issues with searching and downloading from Doomworld/IdGames on modern systems. This version integrates **Microsoft WebView2 (Edge)** for a modern and stable experience.
 
 ### Key Changes:
 * **WebView2 Engine:** Replaced the legacy web browser control with Microsoft WebView2.
@@ -20,5 +20,5 @@ The original launcher used an outdated Internet Explorer component which caused 
 4.  Build and Run!
 
 ## ⚖️ Credits & License
-* **Original Creator:** [Hobomaster22](https://github.com/Hobomaster22)
+* **Original Repository:** [nstlaurent](https://github.com/nstlaurent)
 * **WebView2 Integration:** [sanjiamca](https://github.com/sanjiamca)
